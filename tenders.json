@@ -1,5 +1,17 @@
 [
   {
+    "title": "Supply of Car & Microbus on Rental Basis (Lot-2) Under 'Extending Telecom Facilities (Broadband WiFi) to the Underprivileged People of Haor, Baor and Remote Areas (Breaking Digital Divide)'.",
+    "org": "Bangladesh Telecommunications Company Ltd",
+    "district": "Dhaka",
+    "date": "2026-09-15",
+    "source": "BTCL",
+    "source_url": "https://btcl.gov.bd/pages/tenders",
+    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2026/8/b9f71ba4-e9d7-4c03-adb0-973d73f14081.pdf",
+    "view_url": "",
+    "id": 1,
+    "category": "Software & Web"
+  },
+  {
     "title": "e-Tender notice for Renewal of Existing Firewall Licenses.",
     "org": "ICT Division / a2i",
     "district": "Dhaka",
@@ -8,7 +20,7 @@
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2026/8/7b409dcc-7cf0-41f8-b9f4-d275a1941f1d.pdf",
     "view_url": "",
-    "id": 1,
+    "id": 2,
     "category": "ICT Services"
   },
   {
@@ -20,7 +32,7 @@
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2026/8/7cb577fb-c151-4c53-8b58-7b954ede8d19.pdf",
     "view_url": "",
-    "id": 2,
+    "id": 3,
     "category": "AI & Data"
   },
   {
@@ -32,7 +44,7 @@
     "source_url": "https://bcc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bcc/2026/7/163bf981-e65a-48c2-9250-fbd6531b16a1.pdf",
     "view_url": "",
-    "id": 3,
+    "id": 4,
     "category": "ICT Services"
   },
   {
@@ -44,20 +56,8 @@
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/f919ad79-414d-4e38-b48a-e7d0cc8098c8.pdf",
     "view_url": "",
-    "id": 4,
-    "category": "Software & Web"
-  },
-  {
-    "title": "Corrigendum Notice Regarding Supply and Installation of integrated digital attendance monitoring & management system.",
-    "org": "Bangladesh Computer Council",
-    "district": "Dhaka",
-    "date": "2026-08-19",
-    "source": "BCC",
-    "source_url": "https://bcc.gov.bd/pages/tenders",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bcc/2026/7/b4576856-3708-4957-800a-e0f0e15ebd4b.pdf",
-    "view_url": "",
     "id": 5,
-    "category": "ICT Infrastructure"
+    "category": "Software & Web"
   },
   {
     "title": "Invitation for Tender (IFT) for Procurement of Mobile handset Testing Lab.",
@@ -394,17 +394,5 @@
     "view_url": "",
     "id": 33,
     "category": "Software & Web"
-  },
-  {
-    "title": "Procurement of Preventive and Corrective Maintenance Services of BTCL Optical Fiber.",
-    "org": "Bangladesh Telecommunications Company Ltd",
-    "district": "Dhaka",
-    "date": "2022-12-06",
-    "source": "BTCL",
-    "source_url": "https://btcl.gov.bd/pages/tenders",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2024/12/46826747c0384fb1ac8992c0ce4b137c.pdf",
-    "view_url": "",
-    "id": 34,
-    "category": "ICT Infrastructure"
   }
 ]
