@@ -24,18 +24,6 @@ const TENDERS = [
     "category": "ICT Services"
   },
   {
-    "title": "e-Tender / e-REoI Notice for \"Annual Maintenance Contract (AMC) for Server and Storage Systems for D-Nothi, Located at the Tier-4 Data Center, Kaliakair\" and \" Hiring a Firm for Enhancement and Maintenance of myGov\"",
-    "org": "ICT Division / a2i",
-    "district": "Dhaka",
-    "date": "2026-09-09",
-    "source": "ICT Division (a2i)",
-    "source_url": "https://ictd.gov.bd/pages/tenders",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2026/8/7cb577fb-c151-4c53-8b58-7b954ede8d19.pdf",
-    "view_url": "",
-    "id": 3,
-    "category": "AI & Data"
-  },
-  {
     "title": "Notification of Award (NOA) for \"Procurement of Portable/Semi-Fixed and Mobile Spectrum Monitoring System.\"",
     "org": "Bangladesh Telecommunication Regulatory Commission",
     "district": "Dhaka",
@@ -44,7 +32,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/f919ad79-414d-4e38-b48a-e7d0cc8098c8.pdf",
     "view_url": "",
-    "id": 4,
+    "id": 3,
     "category": "Software & Web"
   },
   {
@@ -56,7 +44,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/45eaf203-e88f-45ec-95dd-ef97d8ff3275.pdf",
     "view_url": "",
-    "id": 5,
+    "id": 4,
     "category": "Software & Web"
   },
   {
@@ -68,7 +56,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/7dfae8e4-4a04-4b10-a188-39d9f51c1c52.pdf",
     "view_url": "",
-    "id": 6,
+    "id": 5,
     "category": "Consulting"
   },
   {
@@ -80,7 +68,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/c220cf3f-49f4-44f9-b11a-32c407f1507f.pdf",
     "view_url": "",
-    "id": 7,
+    "id": 6,
     "category": "Software & Web"
   },
   {
@@ -92,7 +80,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/a7b62abb-9054-4e08-8ddd-9803cd3f00aa.pdf",
     "view_url": "",
-    "id": 8,
+    "id": 7,
     "category": "ICT Infrastructure"
   },
   {
@@ -104,7 +92,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/fe955767-bd4e-46ff-b3bb-eb7368aef627.pdf",
     "view_url": "",
-    "id": 9,
+    "id": 8,
     "category": "Consulting"
   },
   {
@@ -116,7 +104,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/7d88bd8f-07e4-4c17-915e-db1448655915.pdf",
     "view_url": "",
-    "id": 10,
+    "id": 9,
     "category": "ICT Infrastructure"
   },
   {
@@ -128,7 +116,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/634a7c25-c5e3-429f-a159-4eff01a7d6b2.pdf",
     "view_url": "",
-    "id": 11,
+    "id": 10,
     "category": "Consulting"
   },
   {
@@ -140,7 +128,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/2a99c2ec-1155-4f01-8d20-14d376dff118.pdf",
     "view_url": "",
-    "id": 12,
+    "id": 11,
     "category": "AI & Data"
   },
   {
@@ -152,7 +140,7 @@ const TENDERS = [
     "source_url": "https://btcl.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2026/0/b783e3ea-b8cb-4ec1-81f1-417084561dcf.pdf",
     "view_url": "",
-    "id": 13,
+    "id": 12,
     "category": "Software & Web"
   },
   {
@@ -164,7 +152,7 @@ const TENDERS = [
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2024/12/fac66dbe21b443a3bdf3cf7e2290f5b7.pdf",
     "view_url": "",
-    "id": 14,
+    "id": 13,
     "category": "ICT Services"
   },
   {
@@ -176,7 +164,7 @@ const TENDERS = [
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2024/12/78d738f7c9dc4afaa0ba05a015fdf6ec.pdf",
     "view_url": "",
-    "id": 15,
+    "id": 14,
     "category": "Software & Web"
   },
   {
@@ -188,7 +176,7 @@ const TENDERS = [
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2024/12/f570d3b8c7bd4acb9b317fdb37b5d708.pdf",
     "view_url": "",
-    "id": 16,
+    "id": 15,
     "category": "ICT Services"
   },
   {
@@ -200,7 +188,7 @@ const TENDERS = [
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2024/12/48ee44c987b543a5ab9d248e9fe4d066.pdf",
     "view_url": "",
-    "id": 17,
+    "id": 16,
     "category": "ICT Infrastructure"
   },
   {
@@ -212,7 +200,7 @@ const TENDERS = [
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2024/12/aca337d999594d3d9ac2bef5d7700f38.pdf",
     "view_url": "",
-    "id": 18,
+    "id": 17,
     "category": "Consulting"
   },
   {
@@ -224,7 +212,7 @@ const TENDERS = [
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2024/12/1c9d782dbafe4fc0a7d6dc42e480bea6.pdf",
     "view_url": "",
-    "id": 19,
+    "id": 18,
     "category": "ICT Services"
   },
   {
@@ -236,8 +224,20 @@ const TENDERS = [
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2024/12/f369a15f73f84754a024a441918d18dc.pdf",
     "view_url": "",
-    "id": 20,
+    "id": 19,
     "category": "Software & Web"
+  },
+  {
+    "title": "e-Tender Notice (BGD e-GOV CIRT এর সক্ষমতা বৃদ্ধি (২য় সংশোধিত) প্রকল্প",
+    "org": "ICT Division / a2i",
+    "district": "Dhaka",
+    "date": "2025-11-12",
+    "source": "ICT Division (a2i)",
+    "source_url": "https://ictd.gov.bd/pages/tenders",
+    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2024/12/4527ec93f2394f16903e7cdb16d52ed1.pdf",
+    "view_url": "",
+    "id": 20,
+    "category": "ICT Services"
   },
   {
     "title": "CCA: Enlistment of Audit Firms for Conducting Audit of Certifying Authorities (CAs)",
