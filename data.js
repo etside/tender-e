@@ -1,5 +1,17 @@
 const TENDERS = [
   {
+    "title": "Addendum to the Request for Proposal for \"Procurement of Mobile Handset Testing Lab\"",
+    "org": "Bangladesh Telecommunication Regulatory Commission",
+    "district": "Dhaka",
+    "date": "2026-09-06",
+    "source": "BTRC",
+    "source_url": "https://btrc.gov.bd/pages/tenders",
+    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/9/e0b647e5-1988-41d6-bee9-2eec7ae209ba.pdf",
+    "view_url": "",
+    "id": 1,
+    "category": "Software & Web"
+  },
+  {
     "title": "Notification of Award (NOA) for \"Procurement of Portable/Semi-Fixed and Mobile Spectrum Monitoring System.\"",
     "org": "Bangladesh Telecommunication Regulatory Commission",
     "district": "Dhaka",
@@ -8,7 +20,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/f919ad79-414d-4e38-b48a-e7d0cc8098c8.pdf",
     "view_url": "",
-    "id": 1,
+    "id": 2,
     "category": "Software & Web"
   },
   {
@@ -20,7 +32,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/45eaf203-e88f-45ec-95dd-ef97d8ff3275.pdf",
     "view_url": "",
-    "id": 2,
+    "id": 3,
     "category": "Software & Web"
   },
   {
@@ -32,7 +44,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/7dfae8e4-4a04-4b10-a188-39d9f51c1c52.pdf",
     "view_url": "",
-    "id": 3,
+    "id": 4,
     "category": "Consulting"
   },
   {
@@ -44,7 +56,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/7/c220cf3f-49f4-44f9-b11a-32c407f1507f.pdf",
     "view_url": "",
-    "id": 4,
+    "id": 5,
     "category": "Software & Web"
   },
   {
@@ -56,7 +68,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/a7b62abb-9054-4e08-8ddd-9803cd3f00aa.pdf",
     "view_url": "",
-    "id": 5,
+    "id": 6,
     "category": "ICT Infrastructure"
   },
   {
@@ -68,7 +80,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/fe955767-bd4e-46ff-b3bb-eb7368aef627.pdf",
     "view_url": "",
-    "id": 6,
+    "id": 7,
     "category": "Consulting"
   },
   {
@@ -80,7 +92,7 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/7d88bd8f-07e4-4c17-915e-db1448655915.pdf",
     "view_url": "",
-    "id": 7,
+    "id": 8,
     "category": "ICT Infrastructure"
   },
   {
@@ -92,20 +104,8 @@ const TENDERS = [
     "source_url": "https://btrc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/634a7c25-c5e3-429f-a159-4eff01a7d6b2.pdf",
     "view_url": "",
-    "id": 8,
-    "category": "Consulting"
-  },
-  {
-    "title": "Notification of Award (NOA) for Procurement of Update and Annual Maintenance Contract of Telecom Data Information System (DIS)",
-    "org": "Bangladesh Telecommunication Regulatory Commission",
-    "district": "Dhaka",
-    "date": "2026-06-25",
-    "source": "BTRC",
-    "source_url": "https://btrc.gov.bd/pages/tenders",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btrc/2026/6/2a99c2ec-1155-4f01-8d20-14d376dff118.pdf",
-    "view_url": "",
     "id": 9,
-    "category": "AI & Data"
+    "category": "Consulting"
   },
   {
     "title": "“The selection of consulting firm to determine the specifications of BTCL’s ERP Software”",
