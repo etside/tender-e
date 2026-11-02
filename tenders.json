@@ -1,5 +1,17 @@
 [
   {
+    "title": "e-Tender Notice for Procurement of All in One Desktop, Printer & Scanner",
+    "org": "ICT Division / a2i",
+    "district": "Dhaka",
+    "date": "2026-11-01",
+    "source": "ICT Division (a2i)",
+    "source_url": "https://ictd.gov.bd/pages/tenders",
+    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2026/10/decc086a-be2a-4fdb-af09-8ae82544284c.pdf",
+    "view_url": "",
+    "id": 1,
+    "category": "ICT Services"
+  },
+  {
     "title": "Tender Notice of License & Support Service Renewal of existing Private cloud platform for NDC of BCC",
     "org": "Bangladesh Computer Council",
     "district": "Dhaka",
@@ -8,7 +20,7 @@
     "source_url": "https://bcc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bcc/2026/9/6b580f4e-f6bf-4461-b9cc-eb8e47e757ab.pdf",
     "view_url": "",
-    "id": 1,
+    "id": 2,
     "category": "Software & Web"
   },
   {
@@ -20,7 +32,7 @@
     "source_url": "https://ictd.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2026/9/ec631686-7a17-4200-8ebc-88775ece0bec.pdf",
     "view_url": "",
-    "id": 2,
+    "id": 3,
     "category": "Software & Web"
   },
   {
@@ -32,7 +44,7 @@
     "source_url": "https://bcc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bcc/2026/9/f7989c73-bfca-4242-aed0-28254898b17d.pdf",
     "view_url": "",
-    "id": 3,
+    "id": 4,
     "category": "ICT Services"
   },
   {
@@ -44,7 +56,7 @@
     "source_url": "https://bcc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bcc/2026/9/74599a4b-65cc-46e3-953d-a8b8ea4053c7.pdf",
     "view_url": "",
-    "id": 4,
+    "id": 5,
     "category": "AI & Data"
   },
   {
@@ -56,7 +68,7 @@
     "source_url": "https://bcc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bcc/2026/9/cf083cf0-61d3-4bdc-8f9f-f788fd4fdbc3.pdf",
     "view_url": "",
-    "id": 5,
+    "id": 6,
     "category": "ICT Services"
   },
   {
@@ -68,20 +80,8 @@
     "source_url": "https://bcc.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-bcc/2026/9/be04cdac-e581-4714-95a1-993539b70c4f.pdf",
     "view_url": "",
-    "id": 6,
-    "category": "Software & Web"
-  },
-  {
-    "title": "EoI for e-Hajj Management System of Bangladesh",
-    "org": "ICT Division / a2i",
-    "district": "Dhaka",
-    "date": "2026-10-04",
-    "source": "ICT Division (a2i)",
-    "source_url": "https://ictd.gov.bd/pages/tenders",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2026/9/4d3029e1-d216-43f8-9185-45fddcd651c1.pdf",
-    "view_url": "",
     "id": 7,
-    "category": "Consulting"
+    "category": "Software & Web"
   },
   {
     "title": "Addendum to the Request for Proposal for \"Procurement of Mobile Handset Testing Lab\"",
@@ -348,18 +348,6 @@
     "category": "Consulting"
   },
   {
-    "title": "Hiring of Event Management Firm for Organizing Business Process Outsourcing (BPO) Summit Bangladesh 2025",
-    "org": "Department of ICT",
-    "district": "Dhaka",
-    "date": "2025-05-27",
-    "source": "DoICT",
-    "source_url": "https://doict.gov.bd/pages/tenders",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-doict/2024/12/5933f8f20ddf46c0bec5f6d13ca1ef95.pdf",
-    "view_url": "",
-    "id": 30,
-    "category": "ICT Services"
-  },
-  {
     "title": "Ref:14.33.0000.313.14.004.23-102 Selection of Individual Consultants (National) for Services of Supply, Installation, Testing and Commissioning of standard Platform for ,bd and .bangla Domain Hosting , Colocation , Virtual Machine, Cloud Computing et",
     "org": "Bangladesh Telecommunications Company Ltd",
     "district": "Dhaka",
@@ -368,7 +356,7 @@
     "source_url": "https://btcl.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2024/12/fe468cc9d2234702b648e3ac2db5b981.pdf",
     "view_url": "",
-    "id": 31,
+    "id": 30,
     "category": "Software & Web"
   },
   {
@@ -380,7 +368,7 @@
     "source_url": "https://btcl.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2024/12/cfd1b8fe52a84f57908aa5ac5171a5aa.pdf",
     "view_url": "",
-    "id": 32,
+    "id": 31,
     "category": "Consulting"
   },
   {
@@ -392,7 +380,7 @@
     "source_url": "https://btcl.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2024/12/f148c206e4664f11aa0b726e0a1e44ca.pdf",
     "view_url": "",
-    "id": 33,
+    "id": 32,
     "category": "Software & Web"
   },
   {
@@ -404,7 +392,7 @@
     "source_url": "https://btcl.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2024/12/7f9a7244b0124c80a618421cd882519f.pdf",
     "view_url": "",
-    "id": 34,
+    "id": 33,
     "category": "Software & Web"
   },
   {
@@ -416,7 +404,7 @@
     "source_url": "https://btcl.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2024/12/c314d0785c4140b1a62f81d7d416f125.pdf",
     "view_url": "",
-    "id": 35,
+    "id": 34,
     "category": "Software & Web"
   },
   {
@@ -428,19 +416,7 @@
     "source_url": "https://btcl.gov.bd/pages/tenders",
     "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2024/12/4a82876989e7490b9ccd6c89f9b41d1f.pdf",
     "view_url": "",
-    "id": 36,
+    "id": 35,
     "category": "Software & Web"
-  },
-  {
-    "title": "Procurement of Preventive and Corrective Maintenance Services of BTCL Optical Fiber.",
-    "org": "Bangladesh Telecommunications Company Ltd",
-    "district": "Dhaka",
-    "date": "2022-12-06",
-    "source": "BTCL",
-    "source_url": "https://btcl.gov.bd/pages/tenders",
-    "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-btcl/2024/12/46826747c0384fb1ac8992c0ce4b137c.pdf",
-    "view_url": "",
-    "id": 37,
-    "category": "ICT Infrastructure"
   }
 ]
